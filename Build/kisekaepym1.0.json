@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "kisekaedrpym",
+"productVersion": "0.1",
+"dataUrl": "kisekaepym1.0.data.unityweb",
+"wasmCodeUrl": "kisekaepym1.0.wasm.code.unityweb",
+"wasmFrameworkUrl": "kisekaepym1.0.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.12f1"
+}
